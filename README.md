@@ -1,1 +1,1 @@
-# Aulas e exercicíos realizados no curso desenvolvimento web da udemy
+# Aulas e exercicíos realizados durante o curso de desenvolvimento web
